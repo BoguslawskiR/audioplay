@@ -1,0 +1,11 @@
+name: audioplay
+description: A new flutter plugin project.
+
+flutter:
+  plugin:
+    androidPackage: com.yourcompany.audioplay
+    pluginClass: AudioplayPlugin
+
+dependencies:
+  flutter:
+    sdk: flutter
